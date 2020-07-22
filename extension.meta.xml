@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="fingerprints" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Fingerprints</name>
+	<description>Adds fingerprint-hashes of individual selected files and provides the results as xml-parameters.</description>
+	<repo type="github">https://github.com/swiegmann/fingerprints</repo>
+	<types>
+		<type>Other</type>
+	</types>
+	<authors>
+		<author>
+			<name>Stefan Wiegmann</name>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.00" date="2020-07-20" min="2.2" />
+	</releases>
+</extension>
