@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension id="fingerprints" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
 	<name>Fingerprints</name>
-	<description>Adds fingerprint-hashes of individual selected files and provides the results as xml-parameters.</description>
+	<description>Adds md5 fingerprint-hashes (based on PHP filemtime) of selected files and provides the results in the param-pool.</description>
 	<repo type="github">https://github.com/swiegmann/fingerprints</repo>
 	<types>
 		<type>Other</type>

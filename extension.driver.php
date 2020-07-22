@@ -9,7 +9,7 @@ class extension_fingerprints extends Extension {
 			'author'		=> array(
 				'name'			=> 'Stefan Wiegmann'
 			),
-			'description' => 'Adds fingerprint-hashes of individual selected files and provides the results as xml-parameters.'
+			'description' => 'Adds md5 fingerprint-hashes (based on PHP filemtime) of selected files and provides the results in the param-pool.'
 		);
 	}
 
