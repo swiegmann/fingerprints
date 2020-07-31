@@ -1,10 +1,5 @@
 # Fingerprints
 
-- Version: 1.00
-- Author: S.Wiegmann
-- Build Date: 2020-07-20
-- Requirements: Symphony 2.2.x
-
 
 ## Overview
 
@@ -47,9 +42,3 @@ The result of the above example will be:
         <fingerprint-js-dev>6112608910dc88bb733369e143e01290</fingerprint-js-dev>
         ...
     </params>
-
-
-
-## Changelog
-
-- 1.000 / 2019-07-20 Initial release
