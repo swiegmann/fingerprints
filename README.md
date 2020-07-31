@@ -24,8 +24,8 @@ It accepts one entry per row.
 
 The syntax is:
 
-    ds-nodename1:path/filename1
-    ds-nodename2:path/filename2
+    nodename1:path/filename1
+    nodename2:path/filename2
 
 
 Example:
